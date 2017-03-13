@@ -1,0 +1,4 @@
+-Realizar las modificaciones en la BD
+-Presentar elementos de la BD en la WEB
+-Enviar la encuesta a todos los correos de la lista
+-Alojar la Web i la BD en el host.
